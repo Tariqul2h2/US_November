@@ -1,0 +1,270 @@
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-01?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.01,tmh_sc_billing-2021.11.01,tmh_sc_events-2021.11.01,tmh_sc_ocpp-2021.11.01,tmh_sc_side_currents-2021.11.01,tmh_sc_site-2021.11.01,tmh_sc_site_invalid-2021.11.01,tmh_sc_statistics_20-2021.11.01,tmh_sc_total_and_fleet-2021.11.01",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-02?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.02,tmh_sc_billing-2021.11.02,tmh_sc_events-2021.11.02,tmh_sc_ocpp-2021.11.02,tmh_sc_side_currents-2021.11.02,tmh_sc_site-2021.11.02,tmh_sc_site_invalid-2021.11.02,tmh_sc_statistics_20-2021.11.02,tmh_sc_total_and_fleet-2021.11.02"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-03?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.03,tmh_sc_billing-2021.11.03,tmh_sc_events-2021.11.03,tmh_sc_ocpp-2021.11.03,tmh_sc_side_currents-2021.11.03,tmh_sc_site-2021.11.03,tmh_sc_site_invalid-2021.11.03,tmh_sc_statistics_20-2021.11.03,tmh_sc_total_and_fleet-2021.11.03"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-04?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.04,tmh_sc_billing-2021.11.04,tmh_sc_events-2021.11.04,tmh_sc_ocpp-2021.11.04,tmh_sc_side_currents-2021.11.04,tmh_sc_site-2021.11.04,tmh_sc_site_invalid-2021.11.04,tmh_sc_statistics_20-2021.11.04,tmh_sc_total_and_fleet-2021.11.04"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-05?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.05,tmh_sc_billing-2021.11.05,tmh_sc_events-2021.11.05,tmh_sc_ocpp-2021.11.05,tmh_sc_side_currents-2021.11.05,tmh_sc_site-2021.11.05,tmh_sc_site_invalid-2021.11.05,tmh_sc_statistics_20-2021.11.05,tmh_sc_total_and_fleet-2021.11.05"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-06?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.06,tmh_sc_billing-2021.11.06,tmh_sc_events-2021.11.06,tmh_sc_ocpp-2021.11.06,tmh_sc_side_currents-2021.11.06,tmh_sc_site-2021.11.06,tmh_sc_site_invalid-2021.11.06,tmh_sc_statistics_20-2021.11.06,tmh_sc_total_and_fleet-2021.11.06"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-07?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.07,tmh_sc_billing-2021.11.07,tmh_sc_events-2021.11.07,tmh_sc_ocpp-2021.11.07,tmh_sc_side_currents-2021.11.07,tmh_sc_site-2021.11.07,tmh_sc_statistics_20-2021.11.07,tmh_sc_total_and_fleet-2021.11.07"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-08?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.08,tmh_sc_billing-2021.11.08,tmh_sc_events-2021.11.08,tmh_sc_ocpp-2021.11.08,tmh_sc_side_currents-2021.11.08,tmh_sc_site-2021.11.08,tmh_sc_site_invalid-2021.11.08,tmh_sc_statistics_20-2021.11.08,tmh_sc_total_and_fleet-2021.11.08"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-09?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.09,tmh_sc_billing-2021.11.09,tmh_sc_events-2021.11.09,tmh_sc_ocpp-2021.11.09,tmh_sc_side_currents-2021.11.09,tmh_sc_site-2021.11.09,tmh_sc_site_invalid-2021.11.09,tmh_sc_statistics_20-2021.11.09,tmh_sc_total_and_fleet-2021.11.09"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-10?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.10,tmh_sc_billing-2021.11.10,tmh_sc_events-2021.11.10,tmh_sc_ocpp-2021.11.10,tmh_sc_side_currents-2021.11.10,tmh_sc_site-2021.11.10,tmh_sc_site_invalid-2021.11.10,tmh_sc_statistics_20-2021.11.10,tmh_sc_total_and_fleet-2021.11.10"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-11?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.11,tmh_sc_billing-2021.11.11,tmh_sc_events-2021.11.11,tmh_sc_ocpp-2021.11.11,tmh_sc_side_currents-2021.11.11,tmh_sc_site-2021.11.11,tmh_sc_site_invalid-2021.11.11,tmh_sc_statistics_20-2021.11.11,tmh_sc_total_and_fleet-2021.11.11"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-12?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.12,tmh_sc_billing-2021.11.12,tmh_sc_events-2021.11.12,tmh_sc_ocpp-2021.11.12,tmh_sc_side_currents-2021.11.12,tmh_sc_site-2021.11.12,tmh_sc_site_invalid-2021.11.12,tmh_sc_statistics_20-2021.11.12,tmh_sc_total_and_fleet-2021.11.12"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-13?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.13,tmh_sc_billing-2021.11.13,tmh_sc_events-2021.11.13,tmh_sc_ocpp-2021.11.13,tmh_sc_side_currents-2021.11.13,tmh_sc_site-2021.11.13,tmh_sc_site_invalid-2021.11.13,tmh_sc_statistics_20-2021.11.13,tmh_sc_total_and_fleet-2021.11.13"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-14?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.14,tmh_sc_billing-2021.11.14,tmh_sc_events-2021.11.14,tmh_sc_ocpp-2021.11.14,tmh_sc_side_currents-2021.11.14,tmh_sc_site-2021.11.14,tmh_sc_site_invalid-2021.11.14,tmh_sc_statistics_20-2021.11.14,tmh_sc_total_and_fleet-2021.11.14"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-15?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.15,tmh_sc_billing-2021.11.15,tmh_sc_events-2021.11.15,tmh_sc_ocpp-2021.11.15,tmh_sc_side_currents-2021.11.15,tmh_sc_site-2021.11.15,tmh_sc_site_invalid-2021.11.15,tmh_sc_statistics_20-2021.11.15,tmh_sc_total_and_fleet-2021.11.15"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-16?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.16,tmh_sc_billing-2021.11.16,tmh_sc_events-2021.11.16,tmh_sc_ocpp-2021.11.16,tmh_sc_side_currents-2021.11.16,tmh_sc_site-2021.11.16,tmh_sc_site_invalid-2021.11.16,tmh_sc_statistics_20-2021.11.16,tmh_sc_total_and_fleet-2021.11.16"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-17?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.17,tmh_sc_billing-2021.11.17,tmh_sc_events-2021.11.17,tmh_sc_ocpp-2021.11.17,tmh_sc_side_currents-2021.11.17,tmh_sc_site-2021.11.17,tmh_sc_site_invalid-2021.11.17,tmh_sc_statistics_20-2021.11.17,tmh_sc_total_and_fleet-2021.11.17"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-18?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.18,tmh_sc_billing-2021.11.18,tmh_sc_events-2021.11.18,tmh_sc_ocpp-2021.11.18,tmh_sc_side_currents-2021.11.18,tmh_sc_site-2021.11.18,tmh_sc_site_invalid-2021.11.18,tmh_sc_statistics_20-2021.11.18,tmh_sc_total_and_fleet-2021.11.18"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-19?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.19,tmh_sc_billing-2021.11.19,tmh_sc_events-2021.11.19,tmh_sc_ocpp-2021.11.19,tmh_sc_side_currents-2021.11.19,tmh_sc_site-2021.11.19,tmh_sc_site_invalid-2021.11.19,tmh_sc_statistics_20-2021.11.19,tmh_sc_total_and_fleet-2021.11.19"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-20?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.20,tmh_sc_billing-2021.11.20,tmh_sc_events-2021.11.20,tmh_sc_ocpp-2021.11.20,tmh_sc_side_currents-2021.11.20,tmh_sc_site-2021.11.20,tmh_sc_statistics_20-2021.11.20,tmh_sc_total_and_fleet-2021.11.20"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-21?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.21,tmh_sc_billing-2021.11.21,tmh_sc_events-2021.11.21,tmh_sc_ocpp-2021.11.21,tmh_sc_side_currents-2021.11.21,tmh_sc_site-2021.11.21,tmh_sc_site_invalid-2021.11.21,tmh_sc_statistics_20-2021.11.21,tmh_sc_total_and_fleet-2021.11.21"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-22?wait_for_completion=false
+{
+  "indices": "device_status-v2.1.0-2021.11.22,device_status-v3.0.0-2021.11.22,tmh_sc_billing-2021.11.22,tmh_sc_events-2021.11.22,tmh_sc_ocpp-2021.11.22,tmh_sc_side_currents-2021.11.22,tmh_sc_site-2021.11.22,tmh_sc_site_invalid-2021.11.22,tmh_sc_statistics_20-2021.11.22,tmh_sc_total_and_fleet-2021.11.22"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-23?wait_for_completion=false
+{
+  "indices": "device_status-v2.1.0-2021.11.23,device_status-v3.0.0-2021.11.23,tmh_sc_billing-2021.11.23,tmh_sc_events-2021.11.23,tmh_sc_ocpp-2021.11.23,tmh_sc_side_currents-2021.11.23,tmh_sc_site-2021.11.23,tmh_sc_site_invalid-2021.11.23,tmh_sc_statistics_20-2021.11.23,tmh_sc_total_and_fleet-2021.11.23"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-24?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.24,tmh_sc_billing-2021.11.24,tmh_sc_events-2021.11.24,tmh_sc_ocpp-2021.11.24,tmh_sc_side_currents-2021.11.24,tmh_sc_site-2021.11.24,tmh_sc_site_invalid-2021.11.24,tmh_sc_statistics_20-2021.11.24,tmh_sc_total_and_fleet-2021.11.24"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-25?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.25,tmh_sc_billing-2021.11.25,tmh_sc_events-2021.11.25,tmh_sc_ocpp-2021.11.25,tmh_sc_side_currents-2021.11.25,tmh_sc_site-2021.11.25,tmh_sc_statistics_20-2021.11.25,tmh_sc_total_and_fleet-2021.11.25"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-26?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.26,tmh_sc_billing-2021.11.26,tmh_sc_events-2021.11.26,tmh_sc_ocpp-2021.11.26,tmh_sc_side_currents-2021.11.26,tmh_sc_site-2021.11.26,tmh_sc_statistics_20-2021.11.26,tmh_sc_total_and_fleet-2021.11.26"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-27?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.27,tmh_sc_billing-2021.11.27,tmh_sc_events-2021.11.27,tmh_sc_ocpp-2021.11.27,tmh_sc_side_currents-2021.11.27,tmh_sc_site-2021.11.27,tmh_sc_statistics_20-2021.11.27,tmh_sc_total_and_fleet-2021.11.27"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-28?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.28,tmh_sc_billing-2021.11.28,tmh_sc_events-2021.11.28,tmh_sc_ocpp-2021.11.28,tmh_sc_side_currents-2021.11.28,tmh_sc_site-2021.11.28,tmh_sc_statistics_20-2021.11.28,tmh_sc_total_and_fleet-2021.11.28"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-29?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.29,tmh_sc_billing-2021.11.29,tmh_sc_events-2021.11.29,tmh_sc_ocpp-2021.11.29,tmh_sc_side_currents-2021.11.29,tmh_sc_site-2021.11.29,tmh_sc_site_invalid-2021.11.29,tmh_sc_statistics_20-2021.11.29,tmh_sc_total_and_fleet-2021.11.29"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-11-30?wait_for_completion=false
+{
+  "indices": "device_status-v3.0.0-2021.11.30,tmh_sc_billing-2021.11.30,tmh_sc_events-2021.11.30,tmh_sc_ocpp-2021.11.30,tmh_sc_side_currents-2021.11.30,tmh_sc_site-2021.11.30,tmh_sc_site_invalid-2021.11.30,tmh_sc_statistics_20-2021.11.30,tmh_sc_total_and_fleet-2021.11.30"
+,
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+

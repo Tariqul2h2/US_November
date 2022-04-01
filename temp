@@ -1,0 +1,240 @@
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-01?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-02?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-03?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-04?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-05?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-06?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-07?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-08?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-09?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-10?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-11?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-12?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-13?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-14?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-15?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-16?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-17?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-18?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-19?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-20?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-21?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-22?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-23?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-24?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-25?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-26?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-27?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-28?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-29?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
+
+PUT /_snapshot/charging-snapshots-repo/snapshot_of__2021-09-30?wait_for_completion=false
+{
+  "indices": "",
+  "ignore_unavailable": true,
+  "include_global_state": false
+}
+
